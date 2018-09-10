@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  Dll11.cpp
+  dllmain.cpp
+c:\users\mario\source\repos\dll11\dllmain.cpp(16): warning C4838: Konvertierung von "int" zu "BYTE" erfordert eine einschränkende Konvertierung
+c:\users\mario\source\repos\dll11\dllmain.cpp(16): warning C4305: "Initialisierung": Verkürzung von "int" in "BYTE"
+c:\users\mario\source\repos\dll11\dllmain.cpp(16): warning C4309: "Initialisierung": Verkürzung eines konstanten Wertes
+c:\users\mario\source\repos\dll11\dllmain.cpp(54): error C2664: "int MessageBoxA(HWND,LPCSTR,LPCSTR,UINT)" : Konvertierung von Argument 2 von "const wchar_t [20]" in "LPCSTR" nicht möglich
+  c:\users\mario\source\repos\dll11\dllmain.cpp(54): note: Die Typen, auf die verwiesen wird, sind nicht verknüpft; die Konvertierung erfordert einen reinterpret_cast-Operator oder eine Typumwandlung im C- oder Funktionsformat.
+  Code wird generiert...
